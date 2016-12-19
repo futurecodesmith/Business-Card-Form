@@ -1,0 +1,172 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#body {
+	display: block;	
+}
+
+#mainBody {
+	display: inline;
+}
+
+#logo {
+	height: 150px;
+	width: auto;
+	margin: 20px;
+}
+
+h1 {
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+
+/*===========SELECT A STYLE BUTTON DROPDOWN SECTION ================================*/
+
+
+.btn-group {
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+
+/*===========QUANTITY SECTION================================*/
+
+#quantity {
+	margin-left: 50px;
+	margin-bottom: 20px;
+}
+
+label {
+	margin: 10px;
+}
+
+input {
+	margin: 10px;
+	padding: 10px;
+}
+
+radio input {
+	margin: 10px;
+}
+
+p {
+	display: inline;
+	margin-left: 0;
+}
+
+#customNumber {
+	width: 200px;
+}
+
+
+/*===========BUSINESS CARD IMAGE IN MIDDLE OF PAGE================================*/
+.shadow {
+	-webkit-box-shadow: 8px 8px 20px 1px #969393;
+	box-shadow: 8px 8px 20px 1px #969393;
+}
+
+.img {
+	height: 100px;
+	width: auto;
+	margin: 20px 0;
+	display: block;
+}
+
+.inline {
+	display: inline;	
+}
+
+.form-inline {
+	margin-bottom: 0;
+	margin-top: 10px;
+	padding: 0;
+}
+
+.labelWidth {
+	max-width: 450px;
+}
+
+.title {
+	max-width: 900px;
+}
+
+.col-sm-3,
+.col-sm-8,
+.col-sm-6,
+.col-sm-4 {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.digits {
+	width: 250px;
+}
+
+#address {
+	margin: 10px 0;	
+
+}
+
+#parent {
+	margin: 30px 0 30px 10px;
+}
+
+
+
+/*===========OFFICE SIGNAGE================================*/
+
+.office {
+	margin-top: 40px;
+}
+
+h3 {
+	font-style: italic;	
+	margin-left: 10px;
+}
+
+.customNumber1 {
+	width: 250px;
+}
+
+.customNumber2 {
+	width: 400px;
+}
+
+#customNumber3 {
+	width: 400px;
+	margin-top: 0;
+}
+
+.bodyMargin {
+	margin: 20px 0 10px 50px;
+}
+
+.bodyMargin2 {
+	margin-left: 30px;	
+}
+
+.indent {
+	margin: 10px 0 0px 90px;
+}
+
+.submitButton {
+	margin: 20px;
+	width: 150px;
+}
+
+
+/*===========OTHER================================*/
+
+.cardSelect {
+	margin-left: 50px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: large;
+}
+
+.select {
+	height: 400px; 
+	margin-top: 10px;
+}
